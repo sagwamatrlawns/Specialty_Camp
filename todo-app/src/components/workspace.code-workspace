@@ -1,0 +1,23 @@
+{
+  "folders": [
+	{
+		"name": "life-cycle",
+		"path": "../../../life-cycle"
+	},
+	{
+		"name": "hooks-tutorial",
+		"path": "../../../hooks-tutorial"
+	},
+	{
+		"name": "hello-react",
+		"path": "../../../hello-react"
+	},
+	{
+		"path": "../../../styling-react"
+	},
+	{
+		"path": "../.."
+	}
+],
+  "settings": {}
+}
